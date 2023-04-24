@@ -1,2 +1,3 @@
 git hub process
-second line in this file
+git added lines
+3rd line
